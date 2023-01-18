@@ -1,0 +1,31 @@
+
+# GITIGNORE
+
+# Folders
+MAT_Files/
+Model_data/
+Scratch/
+_ssAnalysis/
+
+# Misc files
+.DS_Store
+*.xlsx
+*.mat
+*.mp4
+*.avi
+*.gif
+*.h5
+
+# Matlab specific files/extensions
+# Default autosave extensions
+*.asv
+*.m~
+# Compiled MEX binaries (all platforms)
+*.mex*
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+# Generated helpsearch folders
+helpsearch*/
+# Matlab code generation folders
+codegen/
